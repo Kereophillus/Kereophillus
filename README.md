@@ -1,3 +1,4 @@
+<img src="/NeonSign_Kereophillus.png" alt="Banner" />
 
 ### Hi there, welcome to my GitHub page 👋
 
