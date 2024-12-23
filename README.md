@@ -1,7 +1,7 @@
-<img src="/Xmasimages.png" alt="banner" style="text-align: right;" />
 
+### Hi there, welcome to my GitHub page 👋
 
-## Hi there 👋
+---
 
 <!--
 **Kereophillus/Kereophillus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
