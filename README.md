@@ -1,4 +1,4 @@
-<img  src = "/Streamers.png", alt = "banner" /> 
+<img  src = "/Streamers.png" alt = "banner" /> 
 
 ## Hi there 👋
 
