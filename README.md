@@ -1,4 +1,5 @@
-<img  src = "/Xmasimages.png" alt = "banner" /> 
+<img src="/Xmasimages.png" alt="banner" style="text-align: right;" />
+
 
 ## Hi there 👋
 
