@@ -5,10 +5,15 @@
   <h2 align="left">Hello, World. I'm <a href="https://github.com/Kereophillus" target="_blank">Kereophillus</a> 👋</h2>
   Welcome to my corner of the digital universe! 🌀 <br>
   I'm an ambitious developer and data enthusiast, blending logic with creativity to uncover insights hidden in the realm of data.
+  <br>
 </p>
+<br>
 
 
 ---
+
+<br>
+
 
 ## 🚀 About Me
 
@@ -38,8 +43,8 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kereophillus&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kereophillus&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kereophillus&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kereophillus&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
