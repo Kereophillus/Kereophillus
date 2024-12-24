@@ -48,7 +48,7 @@
 
 Here are a few projects I’m working on:
 
-### 📊 [Data Analysis Portfolio](https://github.com/Kereophillus/Data_Analysis_Portfolio)
+### 📊 [Data Analysis Portfolio](https://github.com/Kereophillus/Data_Analysis)
 - A collection of Jupyter notebooks showcasing data analysis techniques.
 - Features **data cleaning**, **visualization**, and **exploratory analysis** with Python.
 
