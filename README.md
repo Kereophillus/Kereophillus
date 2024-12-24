@@ -1,4 +1,5 @@
 <h1 align="center"><img src="/NeonSign_Kereophillus.png" alt="Banner" /></h1>
+<br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="GIF" align="right" width="300" />
