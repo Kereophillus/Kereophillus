@@ -58,7 +58,7 @@ Here are a few projects I’m working on:
 - A collection of Jupyter notebooks showcasing data analysis techniques.
 - Features **data cleaning**, **visualization**, and **exploratory analysis** with Python.
 
-### 🔍 [Awesome Project](https://github.com/Kereophillus/awesome-project)
+### 🔍 [Awesome Project](https://github.com/Kereophillus/Nigerian_Fuel_Price_Analysis.git)
 - Coming Soon.
 
 ---
